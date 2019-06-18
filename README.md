@@ -1,2 +1,3 @@
-# libra-testnet
-👨‍🔬👷‍♀️The Ethereum community's No.1 chosen Libra blockchain testnet of choice 📲⛓🌐
+# Libra Taco Testnet
+
+![](https://i.imgur.com/6YzyJ1I.png)
